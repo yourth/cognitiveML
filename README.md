@@ -1,4 +1,4 @@
-# :chart: The-Cognitive-and-ML-List
+# :chart: Cognitive and Machine Learning List
 
 Cognitive Services, ML, Machine Learning, Data Ingestion, Azure, Docker, Container, R, Python, C#, Java, Hadoop, Spark etc
 
@@ -7,11 +7,10 @@ Cognitive Services, ML, Machine Learning, Data Ingestion, Azure, Docker, Contain
 What will become the primary source of Data for ML by orders of magnitude in the next decades
 
 
+# 1 - Signals - Vision, Audio, etc.
 
-# 1 - Signals - Vision, Audio etc
 
-
-# 1 - DoD - Data on Disk
+# 1 - Data on Disk (DOD)
 
 
 # 2 - Data Ingestion
@@ -297,91 +296,11 @@ The ML world has many complex systems originally constructed in a variety of pro
 - [Xperiel raises $7 million to connect the digital and real worlds with mixed reality](http://venturebeat.com/2016/08/11/xperiel-raises-7-million-to-connect-the-digital-and-real-worlds-with-mixed-reality/) Technology today is largely inadequate when it comes to addressing how to leverage the IoT and physical infrastructure to better engage customers and drive commerce,” said Stephen Hendrick, principal analyst for application development and deployment research at ESG, in a statement. “Xperiel is breaking new ground by providing a highly abstracted language for building event-driven, device-agnostic applications, as well as an IoT-centric connectivity fabric that ties together devices, events, and content to enable customer-engagement and commerce that is far more effective than other available solutions.”
 - [Onboard diagnostics will connect cars to the Internet of Things](http://venturebeat.com/2016/08/07/onboard-diagnostics-will-connect-cars-to-the-internet-of-things/) A 2011 Machina Research study forecasted that by 2022, there will be 1.8 billion machine-to-machine (M2M) automotive connections, consisting of 700 million connected cars and a $1.1 billion aftermarket in devices for services.
 - [Internet of random things: Fridges, doorbells, beds, and ovens are your connected future. Right?](http://venturebeat.com/2016/03/26/internet-of-random-things-fridges-doorbells-beds-and-ovens-are-your-connected-future-right/) San Francisco-based June announced a fresh $22.5 million funding round, taking its total money raised to the $30 million mark to help bring its smart oven to market. The June oven isn’t like any ordinary oven — this one sports a camera inside that uses deep learning techniques to figure out what you’re preparing, then sets the appropriate temperature to ensure your meal is adequately cooked. The news comes two weeks after newcomer and Y Combinator-backed Tovala launched a Kickstarter for its smart oven, a campaign that’s currently sitting at more than 200 percent of its target funding.
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 
 # Appendix - Other
 - [Nvidia sees government as its next A.I. goldmine](http://venturebeat.com/2016/10/23/nvidia-ai-government/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 
-
-
-- []()
-
-starting to improve IOT and visualization-3
 
 
 
